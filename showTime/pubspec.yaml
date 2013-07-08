@@ -1,0 +1,5 @@
+name: showTime
+description: A sample web application
+dependencies:
+  browser: any
+  intl: any
